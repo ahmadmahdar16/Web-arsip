@@ -5,3 +5,5 @@
 - Upload kode klasifikasi surat format *.CSV (file excel)
 - Multilevel user
 - Fitur backup dan restore database
+
+NB: Database dapat diperoleh dari repository owner resource
